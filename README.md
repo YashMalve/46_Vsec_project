@@ -1,15 +1,57 @@
-🛠️ Technical Stack
-HTML5: Content structuring and layout markup
+# Personal Resume Website
 
-CSS3: Linear gradients, custom typography styling, spacing, and reset rules
+A simple and responsive personal resume website built using **HTML5** and **CSS3**. This project showcases my educational background, technical skills, and contact information in a clean, minimal interface.
 
-👤 Profile Summary
-Name: Yash Malve
+## 🚀 Features
 
-Degree / Field: Information Technology Undergraduate
+- Responsive layout
+- Gradient background
+- Clean typography
+- Organized resume sections
+- Interactive LinkedIn link
+- Print-friendly styling
 
-Institution: K.B.T.C.O.E (2024–2028)
+## 🛠️ Technologies Used
 
-Key Skills: Python, Java, C++, C, SQL, Data Structures, Git, Linux
+- HTML5
+- CSS3
 
-Focus Areas: Backend Development, Cloud Technologies, Data Engineering, AI & Machine Learning
+## 📂 Project Structure
+
+```
+Resume-Website/
+│
+├── index.html
+├── resume.css
+└── README.md
+```
+
+## 📖 Sections Included
+
+- About Me
+- Education
+- Skills
+- Contact Information
+
+
+## 🎯 Future Improvements
+
+- Add Projects section
+- Add Certifications
+- Add Experience section
+- Add profile picture
+- Improve responsiveness for mobile devices
+- Add dark/light mode toggle
+- Add downloadable PDF resume
+- Improve animations and UI
+
+## 📬 Contact
+
+**Yash Malve**
+
+- Email: yashmalve18@icloud.com
+- LinkedIn: https://www.linkedin.com/in/yash-malve/
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
