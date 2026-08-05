@@ -1,0 +1,82 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 40px 50px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d72626;
+    line-height: 1.6;
+
+   
+    background: linear-gradient(to top,rgb(28, 24, 47), #c0b9f2);
+
+    
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 5px;
+    color: #06042ed1;
+}
+
+/* Section headings */
+h2 {
+    font-size: 22px;
+    color: #00060c;
+
+    border-bottom: 2px solid #1f3c5b;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+/* About me paragraph */
+p {
+    font-size: 15px;
+}
+
+/* Horizontal lines */
+hr {
+    display: none;
+}
+
+/* Skills list */
+ul {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Links */
+a {
+    color: #1f3c5b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Bold text */
+strong,
+b {
+    color: #f2ecec;
+}
+
+/* Printing */
+@media print {
+    body {
+        margin: 0;
+        padding: 20px;
+        max-width: 100%;
+    }
+}
